@@ -1,0 +1,19 @@
+[
+{
+    "id": 1,
+    "title": "callgg",
+    "sentence1": "callgg is another gguf file/model caller; cmd-based; lightweighted; just few lines of code; good for learning how it works",
+    "file1": "e.gif",
+    "hash1": "bafybeihf7hq32u7tagfjqbbo2cat2r3qphdqeob5uh67qzuowbzivavshm"
+},
+{
+    "id": 2,
+    "title": "package on pypi",
+    "sentence1": "pypi.org/project/callgg"
+},
+{
+    "id": 3,
+    "title": "repository on GitHub",
+    "sentence1": "github.com/calcuis/callgg"
+}
+]

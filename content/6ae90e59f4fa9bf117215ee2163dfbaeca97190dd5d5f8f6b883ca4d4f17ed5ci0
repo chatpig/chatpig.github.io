@@ -1,0 +1,43 @@
+[
+{
+    "id": 1,
+    "title": "callgg",
+    "sentence1": "callgg is another gguf file/model caller; cmd-based; lightweighted; just few lines of code; good for learning how it works",
+    "hash1": "d4768d52c2d218fe27102d8309f2260bc4bc7fa8ca7f2f2136e51a8362b82167i0"
+},
+{
+    "id": 2,
+    "title": "install callgg via pip/pip3",
+    "command": "pip install callgg"
+},
+{
+    "id": 3,
+    "title": "update callgg",
+    "command": "pip install callgg --upgrade"
+},
+{
+    "id": 4,
+    "title": "check current version",
+    "command": "callgg -v"
+},
+{
+    "id": 5,
+    "title": "read user manual",
+    "command": "callgg -h"
+},
+{
+    "id": 6,
+    "title": "run gguf model/file",
+    "command": "callgg run"
+},
+{
+    "id": 7,
+    "title": "package on pypi",
+    "sentence1": "pypi.org/project/callgg"
+},
+{
+    "id": 8,
+    "title": "repository on GitHub",
+    "sentence1": "github.com/calcuis/callgg"
+}
+]
