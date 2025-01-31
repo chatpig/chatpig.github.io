@@ -1,0 +1,38 @@
+[
+{
+    "id": 1,
+    "title": "llama",
+    "sentence1": "llama-core is a solo gguf connector also; easy to integrate; and being able to work independently",
+    "hash1": "2ca6d3056d73d53d1e70d94e21f45377d1255fda5e8577902cdeb0aae74009a7i0"
+},
+{
+    "id": 2,
+    "title": "install llama via pip/pip3",
+    "command": "pip install llama-core"
+},
+{
+    "id": 3,
+    "title": "update llama-core",
+    "command": "pip install llama-core -U"
+},
+{
+    "id": 4,
+    "title": "run it by python/python3",
+    "command": "python -m llama_core"
+},
+{
+    "id": 5,
+    "title": "include selector to your code",
+    "sentence1": "from llama_core import menu"
+},
+{
+    "id": 6,
+    "title": "package on pypi",
+    "sentence1": "pypi.org/project/llama-core"
+},
+{
+    "id": 7,
+    "title": "repository on GitHub",
+    "sentence1": "github.com/calcuis/llama-core"
+}
+]

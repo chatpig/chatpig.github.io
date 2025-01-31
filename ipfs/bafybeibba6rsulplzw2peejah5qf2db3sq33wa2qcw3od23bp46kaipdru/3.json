@@ -1,0 +1,19 @@
+[
+{
+    "id": 1,
+    "title": "llama",
+    "sentence1": "llama-core is a solo gguf connector also; easy to integrate; and being able to work independently",
+    "file1": "c.gif",
+    "hash1": "bafybeihf7hq32u7tagfjqbbo2cat2r3qphdqeob5uh67qzuowbzivavshm"
+},
+{
+    "id": 2,
+    "title": "package on pypi",
+    "sentence1": "pypi.org/project/llama-core"
+},
+{
+    "id": 3,
+    "title": "repository on GitHub",
+    "sentence1": "github.com/calcuis/llama-core"
+}
+]

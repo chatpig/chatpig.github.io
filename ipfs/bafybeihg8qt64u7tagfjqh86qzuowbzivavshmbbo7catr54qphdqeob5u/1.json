@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "enable": true,
+        "title": "cgg",
+        "image": "https://gguf.us/cgg.gif"
+    },
+    {
+        "id": 2,
+        "enable": true,
+        "title": "connector",
+        "image": "https://gguf.us/connector.gif"
+    },
+    {
+        "id": 3,
+        "enable": true,
+        "title": "lime",
+        "image": "https://gguf.us/lime.gif"
+    },
+    {
+        "id": 4,
+        "enable": true,
+        "title": "core",
+        "image": "https://gguf.us/core.gif"
+    },
+    {
+        "id": 5,
+        "enable": true,
+        "title": "callgg",
+        "image": "https://gguf.us/callgg.gif"
+    },
+    {
+        "id": 6,
+        "enable": true,
+        "title": "selector",
+        "image": "https://gguf.us/selector.gif"
+    }
+]

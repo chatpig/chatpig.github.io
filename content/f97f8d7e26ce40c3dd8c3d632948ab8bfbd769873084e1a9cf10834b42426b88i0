@@ -1,0 +1,38 @@
+[
+{
+    "id": 1,
+    "title": "core",
+    "sentence1": "gguf-core is a powerful gguf file caller; built on llama-core; with latest feature(s)",
+    "hash1": "5bcacb5e7e2faee5ebfbc67dcaa079368b1567f2f8f452cc574d9ceccc5eb915i0"
+},
+{
+    "id": 2,
+    "title": "install core via pip/pip3",
+    "command": "pip install gguf-core"
+},
+{
+    "id": 3,
+    "title": "update gguf-core",
+    "command": "pip install gguf-core --upgrade"
+},
+{
+    "id": 4,
+    "title": "check current version",
+    "command": "gguf -v"
+},
+{
+    "id": 5,
+    "title": "check user manual",
+    "command": "gguf -h"
+},
+{
+    "id": 6,
+    "title": "package on pypi",
+    "sentence1": "pypi.org/project/gguf-core"
+},
+{
+    "id": 7,
+    "title": "repository on GitHub",
+    "sentence1": "github.com/calcuis/gguf-core"
+}
+]
